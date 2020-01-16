@@ -8,6 +8,10 @@ int main(void){
 	
 	printf("Mechanical Engineering"/n);
 	
+	printf("Osama Al Sabahi"/n);
+	
+	printf("Electrical Engineering"/n);
+	
 	
 	return0;
 	
