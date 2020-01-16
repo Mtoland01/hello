@@ -12,6 +12,10 @@ int main(void){
 	
 	printf("Electrical Engineering"/n);
 	
+	printf("Dinesh Budhathoki");
+	
+	printf("Mathematics and Comp Sci");
+	
 	
 	return0;
 	
